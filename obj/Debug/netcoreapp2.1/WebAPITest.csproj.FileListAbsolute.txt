@@ -1,0 +1,14 @@
+/home/dwayne/Documents/Development/WebAPITest/bin/Debug/netcoreapp2.1/WebAPITest.deps.json
+/home/dwayne/Documents/Development/WebAPITest/bin/Debug/netcoreapp2.1/WebAPITest.runtimeconfig.json
+/home/dwayne/Documents/Development/WebAPITest/bin/Debug/netcoreapp2.1/WebAPITest.runtimeconfig.dev.json
+/home/dwayne/Documents/Development/WebAPITest/bin/Debug/netcoreapp2.1/WebAPITest.dll
+/home/dwayne/Documents/Development/WebAPITest/bin/Debug/netcoreapp2.1/WebAPITest.pdb
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.csprojAssemblyReference.cache
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.csproj.CoreCompileInputs.cache
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.RazorAssemblyInfo.cache
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.RazorAssemblyInfo.cs
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.AssemblyInfoInputs.cache
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.AssemblyInfo.cs
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.RazorTargetAssemblyInfo.cache
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.dll
+/home/dwayne/Documents/Development/WebAPITest/obj/Debug/netcoreapp2.1/WebAPITest.pdb
